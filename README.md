@@ -13,12 +13,18 @@ Tomcat 服务器是一个免费的开放源代码的Web 应用服务器，属于
 容器启动后会自动创建一个具有所有权限的admin用户，并自动生成随机密码。你可以通过查看容器log获得密码，比如
 
 > => Creating and admin user with a random password in Tomcat
-> 
-> ========================================================================
-> 
->       admin : tTUFq9xLDlpc
 
-在上面的例子中，*tTUFq9xLDlpc* 就是admin用户的密码。
+> => Done!
+
+> ========================================================================
+
+> You can now configure to this Tomcat server using:
+
+>     admin:1Bwjynh6rAb5
+
+> ========================================================================
+
+在上面的例子中，*1Bwjynh6rAb5* 就是admin用户的密码。
 
 你可以用admin用户访问下面的地址配置Tomcat:
 
